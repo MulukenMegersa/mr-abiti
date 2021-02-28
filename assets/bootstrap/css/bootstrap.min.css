@@ -366,7 +366,7 @@ h6 {
 }
 .lead {
   font-size: 1.25rem;
-  font-weight: 300;
+  font-weight: 600;
 }
 .display-1 {
   font-size: 6rem;
@@ -9407,7 +9407,6 @@ hr.star-light {
   border: none;
   border-top: 0.25rem solid;
   margin-top: 2.5rem;
-  margin-bottom: 2.5rem;
 }
 hr.star-dark:after,
 hr.star-light:after {
@@ -9426,6 +9425,33 @@ hr.star-light:after {
   color: #000;
   background-color:rgb(165, 224, 224);
 }
+
+hr.star-light-only {
+  max-width: 16rem;
+  padding: 0;
+  text-align: center;
+  border: none;
+  border-top: 0.35rem solid;
+  margin-bottom: 2.5rem;
+}
+
+hr.star-light-only:after {
+  position: relative;
+  top: -0.8em;
+  display: inline-block;
+  padding: 0 0.25em;
+  font-family: FontAwesome;
+  font-size: 3em;
+}
+hr.star-light-only {
+  border-color: #dc3535;
+}
+hr.star-light-only:after {
+  color: #000;
+  background-color:rgb(165, 224, 224);
+}
+
+
 hr.star-dark {
   border-color: #13508e;
 }
@@ -9530,7 +9556,7 @@ section h2 {
   }
 }
 header.masthead {
-  padding-top: calc(6rem + 72px);
+  /* padding-top: calc(6rem + 72px); */
   padding-bottom: 6rem;
 }
 header.masthead h1 {
@@ -9543,7 +9569,7 @@ header.masthead h2 {
 }
 @media (min-width: 992px) {
   header.masthead {
-    padding-top: calc(6rem + 106px);
+    padding-top: calc(1rem + 106px);
     padding-bottom: 6rem;
   }
   header.masthead h1 {
@@ -9681,8 +9707,8 @@ form .row:first-child .floating-label-form-group {
   font-size: 16px;
 }
 .footer {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
   background-color: #13508e;
   color: #fff;
 }
