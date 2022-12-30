@@ -1,30 +1,26 @@
 ### Hi there, I am Muluken Bogale  👋
 
-## I'm a Software Developer
+## I am a Software Engineer at Intrahealth International, a company that focuses on improving digital healthcare.
 
 <!--
 **Mr-Abiti/mr-abiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on my personal project using MERN
-- 🌱 I’m currently learning Firebase and Django
-- 📫 How to reach me:
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about 
 
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
 ### Connect me
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />LinkedIn](https://www.linkedin.com/in/mr-abiti/)
-<br />
-### Contact me
-[<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />Telegram](https://t.me/mr_abiti/)
-
+[![Linkedin Badge](https://img.shields.io/badge/-MulukenBogale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mr-abiti/)](https://www.linkedin.com/in/mr-abiti/) 
+[![GitHub followers](https://img.shields.io/github/followers/mr-abiti?label=Follow&style=social)](https://github.com/mr-abiti/?tab=follow)
+[![Twitter Badge](https://img.shields.io/badge/-@mulukenMegersa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mulukenMegersa)](https://twitter.com/mulukenMegersa) 
+[![Gmail Badge](https://img.shields.io/badge/-mulukenb89@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mulukenb89@gmail.com)](mailto:mulukenb89@gmail.com)
+---
 <br />
 
 ### Languages and Tools:
